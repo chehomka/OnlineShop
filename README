@@ -1,1 +1,8 @@
 Simple online shop. Test for Junte.
+Python 3.x
+Django
+Pillow
+Pytz
+Celery
+admin - chehom password - q1234567 email chehom@grr.la
+
